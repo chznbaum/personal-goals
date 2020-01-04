@@ -1,5 +1,4 @@
-Quarterly Review
-==============
+# Quarterly Review
 
 ## Achievements 
 
@@ -9,14 +8,14 @@ Quarterly Review
 
 ## Reflection
 
-_What worked_
+_What worked?_
 
-_What didn't work_ 
+_What didn't work?_ 
 
-_What will you keep doing_
+_What will you keep doing?_
 
-_What will you improve_
+_What will you improve?_
 
-_What will you start doing_
+_What will you start doing?_
 
-_What will you stop doing_
+_What will you stop doing?_

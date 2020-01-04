@@ -1,5 +1,4 @@
-Social Gathering Checklist
-==============
+# Social Gathering Checklist
 
 - [ ] Lunch date
 - [ ] Night out with friends
@@ -8,5 +7,5 @@ Social Gathering Checklist
 - [ ] Serving Others
 - [ ] Alone for a day
 - [ ] Day outdoors
-- [ ] 24 hours no social media
+- [ ] 24 hours no computer/phone
 - [ ] Date night
