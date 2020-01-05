@@ -127,7 +127,8 @@ These are the goals I'd like to focus on this year.
 ---
 
 ## 4 Annual Quarters
-The idea behind 12 Week Year is setting goals per 12 weeks versus the full year. Instead of separating my planning monthly or by quarter as previous years, I'm listing them out as 12 weeks. 
+
+For my planning, I am utilizing 13 week quarters, running from January to January. The first week of the month starting a quarter is the final week of my quarter, which will be treated as a planning week.
 
    * [Quarter](./2020/q1.md)
    * [This Week](./2020/q1.md#week-1--jan-6---12)
