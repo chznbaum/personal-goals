@@ -100,7 +100,7 @@ These are the goals I'd like to focus on this year.
     - Stop volunteering for things I can't commit to
     - Have time for the community building important to me
   - What are the benefits of achieving this goal?
-    - I pride myself on being responsible and true to my word. When I overcommit myself, I tend to be unable to follow through on the things I say I'll do, and community involvement and relationships tend to be the first things to suffer from this. By being more intentional, I can stop sliding toward flakiness and be thee for the people I care about.
+    - I pride myself on being responsible and true to my word. When I overcommit myself, I tend to be unable to follow through on the things I say I'll do, and community involvement and relationships tend to be the first things to suffer from this. By being more intentional, I can stop sliding toward flakiness and be there for the people I care about.
   - Milestones:
     - [ ] Monica personal CRM established
     - [ ] Community involvement list for 2020 reviewed, pruned and locked
