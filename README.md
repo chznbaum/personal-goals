@@ -19,8 +19,8 @@ I wanted to create a foursquare to give more focus to any goals I set.
 
 | Myself   | Relationships | Career  | World |
 | ------------- | ------------- | ------------ | ------------- |
-| Refill my cup  | Intentionally engage  | Strengthen competency  | Pay it forwarrd |
-| Become healthy  | Plan socialization  | Build enterpise knowledge  | Limit commitments  |
+| Refill my cup  | Intentionally engage  | Strengthen competency  | Pay it forward |
+| Become healthy  | Plan socialization  | Build enterprise knowledge  | Limit commitments  |
 
 
 ## Reading Goal :books:
